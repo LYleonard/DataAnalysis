@@ -1,3 +1,2 @@
 ## DataAnalysis
-### GettingStarted
-### DataAnalysisAdvanced
+  GettingStarted and DataAnalysisAdvanced
